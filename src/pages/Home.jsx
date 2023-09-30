@@ -1,4 +1,12 @@
+import Headers from './components/Headers'
+
 const Home = () => {
-	return <>Home</>
+	return (
+		<>
+			<div className="bg-accent">
+				<Headers />
+			</div>
+		</>
+	)
 }
 export default Home
