@@ -6,6 +6,7 @@ const Home = () => {
 			<div className="bg-accent">
 				<Headers />
 			</div>
+			<div>ini halaman home</div>
 		</>
 	)
 }
