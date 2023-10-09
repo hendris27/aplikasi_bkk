@@ -1,6 +1,6 @@
 import Headers from './components/Headers'
 
-const contact = () => {
+const Contact = () => {
 	return (
 		<>
 			<div className="bg-accent">
@@ -10,4 +10,4 @@ const contact = () => {
 		</>
 	)
 }
-export default contact
+export default Contact
